@@ -1,0 +1,26 @@
+body {
+    margin: 1%;
+}
+
+header {
+    display: flex;
+    background: rgb(133, 133, 236);
+    color: white;
+    border: 3px solid black;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+h2 {
+    margin-left: 40px;
+}
+
+form {
+    margin-left: 40px;
+}
+
+li {
+    background: gray;
+    margin-top: 10px;
+    width: 20%;
+}
